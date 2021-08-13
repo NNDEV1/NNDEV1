@@ -34,9 +34,9 @@
 
 📈 **My GitHub Stats:**
 <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabadModi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabadModi&exclude_repo=KNN-Image Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabadmodi&theme=dracula" alt="sabadmodi" /></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NNDEV1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNDEV1&exclude_repo=KNN-Image Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nndev1&theme=dracula" alt="nndev1" /></p>
 
 <br>
 
