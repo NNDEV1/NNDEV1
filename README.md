@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
-- 📫 How to reach me **nalinnagar1@gmail.com**
+- 📫 How to reach me **nalinnagar1@gmail.com** and my personal website **https://personal-website-nndev1.vercel.app/**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
