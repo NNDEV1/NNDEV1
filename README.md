@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nalin</h1>
-<h3 align="center">A passionate AI and DL developer from the U.S.</h3>
+<h1 align="center">hey im nalin</h1>
+<h3 align="center">passionate about anything tech!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nndev1&label=Profile%20views&color=0e75b6&style=flat" alt="nndev1" /> </p>
 
