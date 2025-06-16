@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **my personal portfolio**
+- 🔭 I’m currently working on **work**
 
-- 🌱 I’m currently learning **About deep learning research**
+- 🌱 I’m currently learning **computer architecture, data structures, and low latency systems**
 
-- 👯 I’m looking to collaborate on **deep learning projects**
+- 👯 I’m looking to collaborate on **new and fresh ideas**
 
 - 🤝 I’m looking for help with **finding internships**
 
-- 💬 Ask me about **Machine Learning and Deep Learning**
+- 💬 Ask me about **anything!**
 
 - 📫 How to reach me **nalinnagar1@gmail.com** and my personal website **https://nndev1.github.io/**
 
@@ -26,7 +26,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nalin-nagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nalin-nagar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ndev99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ndev99" height="30" width="40" /></a>
 <a href="https://kaggle.com/nalinnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nalinnagar" height="30" width="40" /></a>
 <a href="https://medium.com/@nalinnagar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nalinnagar1" height="30" width="40" /></a>
 <a href="https://discord.gg/TheExplodingGradient#2032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TheExplodingGradient#2032" height="30" width="40" /></a>
